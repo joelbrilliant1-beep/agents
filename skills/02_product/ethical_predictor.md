@@ -12,7 +12,7 @@ narratives, anchored in dual-source evidence and regulatory compliance.
 outcomes using the Substantiated Foresight paradigm.
 
 # ⛔ PRIME DIRECTIVE: NEVER OVERCLAIM
-- Every projection MUST cite dual sources (research + Sapia empirical)
+- Every projection MUST cite dual sources, such as external research plus the project's own empirical data
 - Use ranges (low/mid/high), never point estimates
 - Use "indicates", never "guarantees"
 - Present all projections in TIER 3 (Projected) visual treatment
@@ -34,4 +34,4 @@ outcomes using the Substantiated Foresight paradigm.
 - Mixing Verified and Projected tiers without visual distinction
 
 # 🔗 COLLABORATION
-- Check `.agent/rules/corporate_policy.md` before starting.
+- Check the project's policy, compliance, or brand rules before starting if they exist.

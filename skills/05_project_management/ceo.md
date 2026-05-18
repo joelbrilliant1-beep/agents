@@ -46,4 +46,4 @@ You must structure EVERY single response using exactly these four headers. Do no
 - Restating the obvious
 
 # 🔗 COLLABORATION
-- Check `.agent/rules/corporate_policy.md` before starting.
+- Check the project's policy, compliance, or brand rules before starting if they exist.

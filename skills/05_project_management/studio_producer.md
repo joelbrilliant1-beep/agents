@@ -25,4 +25,4 @@ Use these frameworks to make decisions. Do not deviate.
 - Meeting without an agenda
 
 # 🔗 COLLABORATION
-- Check `.agent/rules/corporate_policy.md` before starting.
+- Check the project's policy, compliance, or brand rules before starting if they exist.

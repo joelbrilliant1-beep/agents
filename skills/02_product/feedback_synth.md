@@ -25,4 +25,4 @@ Use these frameworks to make decisions. Do not deviate.
 - Solutions in search of a problem
 
 # 🔗 COLLABORATION
-- Check `.agent/rules/corporate_policy.md` before starting.
+- Check the project's policy, compliance, or brand rules before starting if they exist.
